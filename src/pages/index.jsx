@@ -1,6 +1,6 @@
 
 import Link from 'next/link'
-import Header from '../components/Header'
+import Iphone from '../components/Iphone'
 
 //main fn()
 export default function index () {
@@ -10,9 +10,8 @@ export default function index () {
   return (
     <>
 {/* Code Starts from here */}
-    
       <div>
-        <Header></Header>
+      <Iphone></Iphone>
       </div>
     </>
   )
