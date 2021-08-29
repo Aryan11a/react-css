@@ -1,19 +1,15 @@
 
 import Link from 'next/link'
-import Header from '../components/Header'
 
 //main fn()
-export default function index () {
+export default function Header () {
 //your variable, function and hooks go here
 
 //main return
   return (
     <>
 {/* Code Starts from here */}
-    
-      <div>
-        <Header></Header>
-      </div>
+      <div>Hello from Header</div>
     </>
   )
 };
