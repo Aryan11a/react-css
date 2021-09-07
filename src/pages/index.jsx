@@ -1,7 +1,7 @@
 
 import Link from 'next/link'
-import Instagram from '../components/Instagram'
-import Test from '../components/Test'
+import PhotoGalley from '../components/PhotoGalley'
+
 
 //main fn()
 export default function index() {
@@ -12,9 +12,7 @@ export default function index() {
     <>
       {/* Code Starts from here */}
       <div>
-        <Test />
-        <Instagram />
-
+        <PhotoGalley />
       </div>
     </>
   )
