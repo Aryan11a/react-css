@@ -15,14 +15,14 @@ export default function PhotoGalley() {
 
           {/* BUTTON COMPONENT */}
 
-          <button className="bg-blue-500 hover:bg-blue-400 text-white font-bold py-2 px-4 rounded"> Nature and water</button>
-          <button className="font-bold py-2 px-4 rounded bg-blue-500 text-white">  Beautiful Nature!</button>
+          <button className="bg-blue-500 hover:bg-blue-400 text-white font-bold py-2 px-4 rounded"> Nature and water❤️❤️</button>
+          <button className="font-bold py-2 px-4 rounded bg-blue-500 text-white">  Beautiful Nature!❤️❤️</button>
 
           {/*
  ALERT COMPONENT */}
           <div className="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative my-5" role='alert'>
             <strong className="font-bold">...</strong>
-            <span className="block sm:inline">We all love Nature</span>
+            <span className="block sm:inline">We all love Nature🥰</span>
           </div>
 
         </div>
@@ -33,8 +33,8 @@ export default function PhotoGalley() {
           <img src=" https://source.unsplash.com/1600x900/?nature,water" alt="ERROR" className='h-12 w-12' />
         </div>
         <div className="ml-6 pt-1">
-          <h4 className='text-xl text-green-900'>DON'T DESTORY NATURE</h4>
-          <p className="text-base text-gray-600"> Be Peace</p>
+          <h4 className='text-xl text-green-900'>DON'T DESTORY NATURE..😠</h4>
+          <p className="text-base text-gray-600"> Be Peace😇</p>
         </div>
       </div>
       {/* CARD COLUMNS */}
@@ -46,10 +46,10 @@ export default function PhotoGalley() {
                 <img className='rounded-lg lg:w-64' src="https://source.unsplash.com/1600x900/?nature,water" alt="ERROR" />
               </div>
               <div className="mt-4 lg:mt-0 lg:ml-6">
-                <div className='uppercase tracking-wide text-sm text-indigo-600 font-bold'> NaTURE</div>
+                <div className='uppercase tracking-wide text-sm text-indigo-600 font-bold'> NATURE🌲🌲</div>
                 <a href="#"
                   className='block mt-1 text-lg leading-tight font-semibold text-green-900 hover:underline'
-                >I LOVE Nature </a>
+                >I LOVE Nature..!🥰 </a>
               </div>
             </div>
           </div>
@@ -59,8 +59,8 @@ export default function PhotoGalley() {
                 <img className='rounded-lg lg:w-64' src="https://source.unsplash.com/1600x900/?nature,water" alt="ERROR" />
               </div>
               <div className='mt-4 lg:m-0 lg:ml-6'>
-                <div className='uppercase tracking-wide text-sm text-indigo-600 font-bold '>NATURE</div>
-                <a href="#" className='block mt-1 text-lg leading-tight font-semibold text-green-900 hover:underline'>We should Protect our Nature</a>
+                <div className='uppercase tracking-wide text-sm text-indigo-600 font-bold '>NATURE🌲🌲</div>
+                <a href="#" className='block mt-1 text-lg leading-tight font-semibold text-green-900 hover:underline'>We should Protect our Nature..😊</a>
               </div>
             </dir>
           </div>
