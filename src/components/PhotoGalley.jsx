@@ -30,7 +30,7 @@ export default function PhotoGalley() {
       {/* CARD COMPONENT */}
       <div className="max-w-sm mx-auto flex p-6 bg-gray-400 rounded-lg shadow-xl">
         <div className="flex-shrink-0">
-          <img src=" https://source.unsplash.com/1600x900/?lava" alt="ERROR" className='h-12 w-12' />
+          <img src=" https://source.unsplash.com/1600x900/?DESTORY NATURE" alt="ERROR" className='h-12 w-12' />
         </div>
         <div className="ml-6 pt-1">
           <h4 className='text-xl text-green-900'>DON'T DESTORY NATURE..😠</h4>
