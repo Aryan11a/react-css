@@ -1,17 +1,20 @@
 
 import Link from 'next/link'
-import Iphone from '../components/Iphone'
+import Instagram from '../components/Instagram'
+import Test from '../components/Test'
 
 //main fn()
-export default function index () {
-//your variable, function and hooks go here
+export default function index() {
+  //your variable, function and hooks go here
 
-//main return
+  //main return
   return (
     <>
-{/* Code Starts from here */}
+      {/* Code Starts from here */}
       <div>
-      <Iphone></Iphone>
+        <Test />
+        <Instagram />
+
       </div>
     </>
   )

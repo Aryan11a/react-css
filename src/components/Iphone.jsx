@@ -2,7 +2,7 @@
 import Link from 'next/link'
 import { BsBatteryFull } from 'react-icons/bs';
 import { BiWifi2 } from 'react-icons/bi';
-import { AiFillSignal } from 'react-icons/ai';
+import { AiFillSignal, AiOutlineCamera } from 'react-icons/ai';
 import { BsUnlock } from 'react-icons/bs'
 
 
@@ -33,9 +33,13 @@ export default function Iphone() {
             <BsUnlock className="h-12 w-12 mx-auto text-white mt-8"></BsUnlock>
             <div className="text-white text-5xl mx-auto text-center mt-5 font-extralight">11:35AM</div>
             <div className="text-white text-center text-lg mt-5 font-extralight">Monday,June 7</div>
+          </div>
 
-
-
+          <div className="flex mtb-8 justify-between">
+            <div className="a"></div>
+            <div className="a">
+              <AiOutlineCamera></AiOutlineCamera>
+            </div>
           </div>
 
         </div>
