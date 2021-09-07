@@ -42,7 +42,15 @@ export default function PhotoGalley() {
         <div className='md:flex'>
           <div className='flex-1 text-green-700 text-center bg-gray-400 px-5 py-5 m-2 rounded'>
             <div className='lg:flex lg:items-center'>
-              <div className='lg:flex-shrink-0'></div>
+              <div className='lg:flex-shrink-0'>
+                <img className='rounded-lg lg:w-64' src="https://source.unsplash.com/1600x900/?nature,water" alt="ERROR" />
+              </div>
+              <div className="mt-4 lg:mt-0 lg:ml-6">
+                <div className='uppercase tracking-wide text-sm text-indigo-600 font-bold'> Networking</div>
+                <a href="#"
+                  className='block mt-1 text-lg leading-tight font-semibold text-green-900 hover:underline'
+                >Finding connections to help your business grow </a>
+              </div>
             </div>
           </div>
         </div>
