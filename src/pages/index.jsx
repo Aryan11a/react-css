@@ -1,6 +1,6 @@
 
 import Link from 'next/link'
-import Header from '../components/Header'
+import OnlineShop from '../components/OnlineShop'
 
 //main fn()
 export default function index() {
@@ -11,7 +11,7 @@ export default function index() {
     <>
       {/* Code Starts from here */}
       <div>
-        <Header />
+        <OnlineShop />
       </div>
     </>
   )

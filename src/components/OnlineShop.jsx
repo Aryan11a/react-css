@@ -2,7 +2,7 @@
 import Link from 'next/link'
 
 //main fn()
-export default function Header() {
+export default function OnlineShop() {
   //your variable, function and hooks go here
 
   //main return
@@ -24,7 +24,7 @@ export default function Header() {
       <div>
         <span className=' text-lg font-bold '>Laptop.Name=Dell <input className='text-sm align-text-top ' type="button" value="Rs. 199,000" /> </span> <br />
 
-        <img src=" https://source.unsplash.com/1000x800/?laptop" alt="laptop" />
+        <img src=" https://source.unsplash.com/1000x800/? Dell laptop" alt="laptop" />
       </div> <br />
 
       <div className='text-right'>
