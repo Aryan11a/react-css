@@ -1,7 +1,6 @@
 
 import Link from 'next/link'
-import PhotoGalley from '../components/PhotoGalley'
-
+import Header from '../components/Header'
 
 //main fn()
 export default function index() {
@@ -12,7 +11,7 @@ export default function index() {
     <>
       {/* Code Starts from here */}
       <div>
-        <PhotoGalley />
+        <Header />
       </div>
     </>
   )
