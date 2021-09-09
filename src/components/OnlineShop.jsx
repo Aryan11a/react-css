@@ -40,16 +40,19 @@ export default function OnlineShop() {
         <span className='font-bold'> Date <br />  <input type="date" className='bg-purple-50' /> </span> <br />
       </div> <br />
 
+      <div>
+        General= Male  <input type="radio" name="Male" id='Male' /> <br /> Female <input type="radio" name="Male" id='Male' /> </div>
+
+
       <div className='text-blue-400 font-bold'>
-        I am 12 years old or I am 12 years older.  <input type="checkbox" name="CheckBox" />
+        I am 18 years old or I am 18 years older.  <input type="checkbox" name="CheckBox" />
       </div> <br />
       <div>
         <span className='font-bold'> <input type="submit" value="Buy" className='bg-gray-200' /> </span>
       </div> <br />
-      <div>
-        <span className='font-bold'> <input type="reset" value="Back" className='bg-gray-200 text-center' /> </span>
+      <div className='font-bold text-right'>
+        <input type="reset" value="Back" className='bg-gray-200 text-center' />
       </div>
-
 
 
     </>
