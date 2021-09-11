@@ -1,5 +1,6 @@
 
 import Link from 'next/link'
+import Making from '../components/Making'
 import OnlineShop from '../components/OnlineShop'
 import Pratice from '../components/Pratice'
 // import OnlineShop from '../components/OnlineShop'
@@ -14,7 +15,8 @@ export default function index() {
       {/* Code Starts from here */}
       <div>
         {/* <OnlineShop /> */}
-        <Pratice />
+        {/* <Pratice /> */}
+        <Making />
       </div>
     </>
   )

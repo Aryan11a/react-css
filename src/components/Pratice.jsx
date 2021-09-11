@@ -5,7 +5,7 @@ import Link from 'next/link'
 export default function Pratice() {
   //your variable, function and hooks go here
 
-  //main return
+  //main return''''
   return (
     <>
       {/* Code Starts from here */}
