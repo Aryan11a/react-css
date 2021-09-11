@@ -12,8 +12,8 @@ export default function Making() {
       <div className="flex bg-black">
         <div className=" text-white w-1/12 text-lg text-center font-bold">amazon</div>
         <div className="text-white w-1/12">Deliver to Nepal</div>
-        <div className="text-white w-8/12 font-bold">Search
-          <span className='bg-gray-200 text-black'> All<input className='border-2 ' type="search" placeholder='Search' name="search" /></span>
+        <div className="text-white w-8/12 font-bold">
+          <span className='bg-gray-100 text-black p-2 text-lg font-bold'> ALL<input className='border-2  ' type="search " placeholder='Search' name="search" /> 🔍</span>
         </div>
         <div className="text-white w-1/12 font-bold ">Nepal🇳🇵</div>
         <div className="text-white w-1/12 font-bold">account</div>
