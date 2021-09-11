@@ -1,6 +1,6 @@
 
 import Link from 'next/link'
-
+// import {... } from 'react-icons/..'
 //main fn()
 export default function Iphone1() {
   //your variable, function and hooks go here
