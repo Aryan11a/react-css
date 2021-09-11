@@ -44,9 +44,7 @@ export default function Making() {
           <div className='bg-black text-white h-20'>
             <img src="https://source.unsplash.com/400x700/? ps5" alt="" />
           </div>
-          <div className="my-auto">
 
-          </div>
         </div>
 
       </div>
