@@ -28,12 +28,12 @@ export default function Making() {
         <div className="mx-3">Gift Cards</div>
         <div className="mx-3">Sell</div>
       </div>
-      <div>
+      <div >
         <img src=" https://source.unsplash.com/1600x900/? shoes clothes" alt="" />
         <div className='flex'>
-          <img className=' mx-32 my-32 overflow-hidden' src=" https://source.unsplash.com/400x800/? shoes" alt="" />
+          <span className='mx-auto my-auto  font-bold left-5'> Shoes<img className=' mx-32 my-32' src=" https://source.unsplash.com/400x800/? shoes" alt="" /> </span>
           <div>
-            <img className='mx-32 my-32 ' src=" https://source.unsplash.com/400x800/? car,laptop" alt="" />
+            <span className='mx-auto my-auto font-bold  text-left'>laptop,Phone<img className='mx-32 my-32 ' src=" https://source.unsplash.com/400x800/? phone,laptop" alt="" /></span>
           </div>
         </div>
 
