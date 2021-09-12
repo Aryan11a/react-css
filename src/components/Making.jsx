@@ -32,14 +32,16 @@ export default function Making() {
       <div className='' >
         <img src=" https://source.unsplash.com/1400x450/? shoes clothes" alt="" />
         <div className='flex mx-auto '>
-          <div>
+          <div className='font-bold text-sm '>
             <img className='border-4' src="https://source.unsplash.com/400x356/? Iphone12" alt="" />
+            Shop Now
           </div>
-          <div>
+          <div className='font-bold text-sm'>
             <img className='border-4' src="https://source.unsplash.com/400x356/? laptop macbook" alt="" />
+            Shop Now
           </div>
-          <div>
-            <img className='border-4' src="https://source.unsplash.com/400x356/? mouse,keyboards,headsets,chairs" alt="" />
+          <div className='font-bold text-sm ' >
+            <img className='border-4' src="https://source.unsplash.com/400x356/? mouse,keyboards,headsets,chairs" alt="" /> Shop Now
           </div>
           <div className='bg-gray-100 text-black border-4 border-white  h-20 font-bold text-lg '>
             <span>
@@ -49,6 +51,7 @@ export default function Making() {
               Sign in securely
             </p>
             <img className='mt-5' src="https://source.unsplash.com/400x249/? ps5" alt="" />
+            <p className=''>Shop Now</p>
           </div>
 
         </div>
