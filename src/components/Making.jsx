@@ -30,28 +30,28 @@ export default function Making() {
         <div className="mx-4 text-sm h-6 w-1/12">Sell</div>
       </div>
       <div className='' >
-        <img src=" https://source.unsplash.com/1400x450/? shoes clothes" alt="" />
+        <img src=" https://source.unsplash.com/1400x350/? shoes clothes" alt="" />
         <div className='flex mx-auto '>
-          <div className='font-bold text-sm '>
+          <div className='font-bold text-xs '>
             <img className='border-4' src="https://source.unsplash.com/400x356/? Iphone12" alt="" />
             Shop Now
           </div>
-          <div className='font-bold text-sm'>
+          <div className='font-bold text-xs'>
             <img className='border-4' src="https://source.unsplash.com/400x356/? laptop macbook" alt="" />
             Shop Now
           </div>
-          <div className='font-bold text-sm ' >
+          <div className='font-bold text-xs ' >
             <img className='border-4' src="https://source.unsplash.com/400x356/? mouse,keyboards,headsets,chairs" alt="" /> Shop Now
           </div>
-          <div className='bg-gray-100 text-black border-4 border-white  h-20 font-bold text-lg '>
-            <span>
+          <div className='bg-gray-100 text-black border-4 border-white  h-20 font-bold  '>
+            <span className='text-lg'>
               Sign in for the best experience
             </span>
             <p className='text-sm bg-yellow-400 mt-5  '>
               Sign in securely
             </p>
             <img className='mt-5' src="https://source.unsplash.com/400x249/? ps5" alt="" />
-            <p className=''>Shop Now</p>
+            <span className='text-xs'> Shop Now </span>
           </div>
 
         </div>
