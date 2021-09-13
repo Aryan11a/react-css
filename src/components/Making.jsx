@@ -32,25 +32,29 @@ export default function Making() {
       <div className='' >
         <img src=" https://source.unsplash.com/1400x350/? shoes clothes" alt="" />
         <div className='flex mx-auto '>
-          <div className='font-bold text-xs text-blue-700 border-2 '>
+          <div className='font-bold text-xs text-blue-700 border-2  '>
+            <span className='text-lg text-black'>Iphone12ProMax</span>
             <img className='border-4' src="https://source.unsplash.com/400x356/? Iphone12" alt="" />
             Shop Now
           </div>
           <div className='font-bold text-xs text-blue-700'>
+            <span className='text-lg text-black'>MACBOOK</span>
             <img className='border-4' src="https://source.unsplash.com/400x356/? laptop macbook" alt="" />
             Shop Now
           </div>
           <div className='font-bold text-xs text-blue-700  ' >
+            <span className='text-lg text-black'>Mouse,Keyboards & Heardsets</span>
             <img className='border-4' src="https://source.unsplash.com/400x356/? mouse,keyboards,headsets,chairs" alt="" /> Shop Now
           </div>
-          <div className='bg-gray-100 text-black border-4 border-white  h-20 font-bold  '>
+          <div className='bg-gray-100 text-black border-4 border-gray-100   h-20 font-bold  '>
             <span className='text-lg'>
-              Sign in for the best experience
+              Sign in for the best  <p>experience</p>
+              <p className='text-sm bg-yellow-400 mt-5 rounded-full text-center '>
+                Sign in securely
+              </p>
             </span>
-            <p className='text-sm bg-yellow-400 mt-5  '>
-              Sign in securely
-            </p>
-            <img className='mt-5' src="https://source.unsplash.com/400x249/? ps5" alt="" />
+
+            <img className='mt-5' src="https://source.unsplash.com/400x250/? ps5" alt="" />
             <span className='text-xs text-blue-700'> Shop Now </span>
           </div>
 

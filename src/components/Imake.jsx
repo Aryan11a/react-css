@@ -17,7 +17,7 @@ export default function Imake() {
         </div>
         <div className="my-4 mx-6 "><RiVideoAddLine /></div>
         <div className="my-3 mx-4">┆┆┆</div>
-        <div className="my-3 mx-4 border-2  rounded-full p-1 bg-green-400 ">😃</div>
+        <div className="my-3 mx-4 border-2  rounded-full p-1  bg-green-400 ">😃</div>
       </div>
     </>
   )
