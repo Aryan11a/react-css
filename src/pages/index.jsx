@@ -1,5 +1,6 @@
 
 import Link from 'next/link'
+import Imake from '../components/Imake'
 import Making from '../components/Making'
 import OnlineShop from '../components/OnlineShop'
 import Pratice from '../components/Pratice'
@@ -16,7 +17,8 @@ export default function index() {
       <div>
         {/* <OnlineShop /> */}
         {/* <Pratice /> */}
-        <Making />
+        {/* <Making /> */}
+        <Imake />
       </div>
     </>
   )
