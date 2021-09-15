@@ -43,8 +43,8 @@ export default function Making() {
             Shop Now
           </div>
           <div className='font-bold text-xs text-blue-700  ' >
-            <span className='text-lg text-black'>Mouse,Keyboards & Heardsets</span>
-            <img className='border-4' src="https://source.unsplash.com/400x356/? mouse,keyboards,headsets,chairs" alt="" /> Shop Now
+            <span className='text-lg text-black'>Keyboards & Heardsets</span>
+            <img className='border-4' src="https://source.unsplash.com/400x356/?keyboards,headsets" alt="" /> Shop Now
           </div>
           <div className='bg-gray-100 text-black border-4 border-gray-100   h-20 font-bold  '>
             <span className='text-lg'>
