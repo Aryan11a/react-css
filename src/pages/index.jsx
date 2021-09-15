@@ -17,8 +17,8 @@ export default function index() {
       <div>
         {/* <OnlineShop /> */}
         {/* <Pratice /> */}
-        <Making />
-        {/* <Imake /> */}
+        {/* <Making /> */}
+        <Imake />
       </div>
     </>
   )
